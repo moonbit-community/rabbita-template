@@ -1,11 +1,6 @@
 import { defineConfig } from 'vite'
-import rabbitTEA from 'rabbit-tea-vite'
-import tailwindcss from '@tailwindcss/vite'
+import rabbita from '@rabbita/vite'
 
 export default defineConfig({
-    root: 'src',
-    plugins: [
-        rabbitTEA(),
-        tailwindcss()
-    ],
+  plugins: [rabbita()],
 })

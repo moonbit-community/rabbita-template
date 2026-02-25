@@ -1,4 +1,7 @@
 target/
+target
+_build/
+dist/
 .mooncakes/
 node_modules/
 package-lock.json

@@ -1,5 +1,5 @@
 {
-  "name": "username/rabbit-tea-tailwind",
+  "name": "user/app",
   "version": "0.2.0",
   "deps": {
     
@@ -9,6 +9,5 @@
   "license": "Apache-2.0",
   "keywords": [],
   "description": "",
-  "source": "src",
   "preferred-target": "js"
 }
