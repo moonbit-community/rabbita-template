@@ -46,7 +46,6 @@ fn view(dispatch : Dispatch[Msg], model : Model) -> Html {
           a(
             class="inline-link",
             target=Blank,
-            escape=true,
             href="https://github.com/moonbit-community/rabbita",
             "tutorials and examples",
           ),
