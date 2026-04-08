@@ -3,7 +3,7 @@
   "workspaces": {
     "": {
       "dependencies": {
-        "@rabbita/vite": "^0.1.0",
+        "@rabbita/vite": "^0.1.3",
       },
     },
   },
@@ -58,7 +58,7 @@
 
     "@esbuild/win32-x64": ["@esbuild/win32-x64@0.25.2", "https://registry.npmmirror.com/@esbuild/win32-x64/-/win32-x64-0.25.2.tgz", { "os": "win32", "cpu": "x64" }, "sha512-kM3HKb16VIXZyIeVrM1ygYmZBKybX8N4p754bw390wGO3Tf2j4L2/WYL+4suWujpgf6GBYs3jv7TyUivdd05JA=="],
 
-    "@rabbita/vite": ["@rabbita/vite@0.1.0", "", { "peerDependencies": { "vite": "^7.0.0" } }, "sha512-kgwsITG7rYkjMvrcyahUHkp4Z8+tyIPTKDorId8KdWNZxchajs+eFCA4u0qJ9Q0mV+yf/WjhVXo1h2s8BG3JtA=="],
+    "@rabbita/vite": ["@rabbita/vite@0.1.3", "", { "peerDependencies": { "vite": "^7.0.0" } }, "sha512-tWQQ4V1gUKgNmm1v2kBt2ZYLRD3b/eMhckNc8ZFxfoTHnw4JAZ3fiYnbcm4LmImR/I6PJxAUlXpV/r2wxReL9Q=="],
 
     "@rollup/rollup-android-arm-eabi": ["@rollup/rollup-android-arm-eabi@4.38.0", "https://registry.npmmirror.com/@rollup/rollup-android-arm-eabi/-/rollup-android-arm-eabi-4.38.0.tgz", { "os": "android", "cpu": "arm" }, "sha512-ldomqc4/jDZu/xpYU+aRxo3V4mGCV9HeTgUBANI3oIQMOL+SsxB+S2lxMpkFp5UamSS3XuTMQVbsS24R4J4Qjg=="],
 
