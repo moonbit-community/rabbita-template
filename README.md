@@ -1,3 +1,7 @@
+# WARNING: This template is deprecated
+
+>  You can use [the cli tool](https://github.com/moonbit-community/rabbita/blob/main/warren/README.md) `warren new <project-name>` instead.
+
 # Rabbita template
 
 Template for web app using MoonBit and Rabbita.
